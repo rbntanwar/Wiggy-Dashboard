@@ -10,3 +10,6 @@
 - Added **navigation action buttons** for seamless page switching between both dashboard pages
 - **Data Source** — Skill Course Power BI series by **Satish Dhawale**
 # Wiggy-Dashboard
+
+![image alt](https://github.com/rbntanwar/Wiggy-Dashboard/blob/main/Wiggy%20D1.png?raw=true)
+![image alt](https://github.com/rbntanwar/Wiggy-Dashboard/blob/main/Wiggy%20D2.png?raw=true)
